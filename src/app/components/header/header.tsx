@@ -1,19 +1,22 @@
 import Image from "next/image";
 
+import "./header.scss"
+
+
 export function Header(){
   return(
     <div className="header">
-				<Image
-					src="/vercel.svg"
-					alt="Vercel Logo"
-					width={100}
-					height={24}
-					priority
-				/>
 				<div>
-					<h1>Hi, I am Rafaela</h1>
+					<h1>Hi, I´m Rafaela</h1>
 					<h2>Software Engineer</h2>
 				</div>
+				<Image
+					src="/me.png"
+					alt="Vercel Logo"
+					width={325}
+					height={277}
+					priority
+				/>
 			</div>
   )
 }
