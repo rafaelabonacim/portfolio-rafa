@@ -1,22 +1,21 @@
 import Image from "next/image";
 
-import "./header.scss"
+import "./header.scss";
 
-
-export function Header(){
-  return(
-    <div className="header">
-				<div>
-					<h1>Hi, I´m Rafaela</h1>
-					<h2>Software Engineer</h2>
-				</div>
-				<Image
-					src="/me.png"
-					alt="Vercel Logo"
-					width={325}
-					height={277}
-					priority
-				/>
+export function Header() {
+	return (
+		<div className="header">
+			<div>
+				<h1>i´m Rafaela Bonacim! 👋</h1>
+				<h2>Software Engineer</h2>
 			</div>
-  )
+			<Image
+				src="/me.png"
+				alt="Vercel Logo"
+				width={325}
+				height={277}
+				priority
+			/>
+		</div>
+	);
 }
