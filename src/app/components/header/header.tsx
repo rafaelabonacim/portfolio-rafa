@@ -11,9 +11,9 @@ export function Header() {
 			</div>
 			<Image
 				src="/me.png"
-				alt="Vercel Logo"
+				alt="me"
 				width={325}
-				height={277}
+				height={310}
 				priority
 			/>
 		</div>
