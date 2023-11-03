@@ -12,6 +12,65 @@
 		color: var(--text-secondary);
 		text-align: center;
 	}
+
+	.experience-time {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 8px;
+		flex-direction: column;
+
+		.experience-language {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			gap: 8px;
+			flex: column;
+
+			img {
+				filter: grayscale(100%);
+			}
+
+			.experience-unit {
+				display: flex;
+				align-items: center;
+				justify-content: flex-start;
+				width: 300px;
+				height: 30px;
+				border-radius: 24px;
+				border: 1px solid var(--text-secondary);
+
+				.experience-measure {
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					z-index: 999;
+
+					border-radius: 24px;
+					height: 30px;
+					border: 1px linear-gradient(90deg, #645ccc 2.64%, #f47777 93.38%);
+					background: linear-gradient(90deg, #645ccc 2.64%, #f47777 93.38%);
+
+					color: var(--text-primary);
+					font-weight: 300;
+					text-align: center;
+					font-size: 12px;
+
+					&.measure-1 {
+						width: 33%;
+					}
+
+					&.measure-2 {
+						width: 66%;
+					}
+					&.measure-3 {
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+
 	@media (min-width: 768px) {
 		align-items: flex-start;
 		p {
