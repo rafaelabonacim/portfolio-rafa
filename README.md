@@ -3,7 +3,7 @@
 ### I'm Rafaela Bonacim, Front-End Software Engineer dedicated to developing amazing interfaces! 
 
 - 🔭 &nbsp;I’m currently working on #luizalabs :wink:
-- 🌱 &nbsp;I’m currently learning React,JavaScript,TypeScript
+- 🌱 &nbsp;I’m currently learning React, JavaScript, TypeScript
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
 
 
