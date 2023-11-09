@@ -7,19 +7,21 @@ export function Experience() {
 		<div className="experience">
 			<SectionTitle text="About Me" />
 			<p>
-				I&apos;m a passionate front-end developer with a unique journey. I began
-				my career as a Product Owner, where I coordinated projects, worked
-				closely with development teams, and learned the importance of delivering
-				results. My journey led me to discover my true love: programming. Two
-				years ago, I made the transition to the front-end development field and
-				never looked back.
-				My previous experience has taught me effective
-				collaboration, agile methodologies, and data-driven decision-making.
-				Now, I&apos;m working as a Frontend Web Developer, utilizing TypeScript,
-				React, and Cypress to create engaging and functional interfaces.
-				I&apos;m committed to continuous growth as a developer and thrive on
-				tackling complex coding challenges.
+				Passionate to developing amazing interfaces, with +5 years of experience
+				in IT and +2 years as Front-End, who is constantly seeking for new
+				challenges.
 			</p>
+
+			<p>
+				I became a Front-End because I&apos;m passionate about developing
+				interfaces to improve users experience.
+			</p>
+			<p>
+				I consider myself a team player. In my work I do many pair programming
+				with my colleagues.{" "}
+			</p>
+			<p>I have experience with JavaScript, Typescript and React.</p>
+			<p> And for tests, I have experience with Cypress and Jest.</p>
 
 			<div className="experience-time">
 				<div className="experience-language">
@@ -65,7 +67,6 @@ export function Experience() {
 					</div>
 				</div>
 			</div>
-
 		</div>
 	);
 }

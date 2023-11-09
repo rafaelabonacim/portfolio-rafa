@@ -13,13 +13,6 @@ export default function Home() {
 			<Experience />
 			<Info />
 			<Projects />
-			<div className="buttons">
-				<SocialBtns />
-				<a className="btn-primary" href="mailto:rafaelabonacim@gmail.com">
-					contact me
-					<EmailIcon />
-				</a>
-			</div>
 		</main>
 	);
 }
