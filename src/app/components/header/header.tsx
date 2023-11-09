@@ -10,7 +10,7 @@ export function Header() {
 				<h2>Software Engineer</h2>
 			</div>
 			<Image
-				src="/rafa2.png"
+				src="/rafaa.png"
 				alt="me"
 				width={325}
 				height={310}
