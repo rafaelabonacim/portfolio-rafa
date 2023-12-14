@@ -33,7 +33,7 @@ export function Experience() {
 						priority
 					/>
 					<div className="experience-unit">
-						<div className="experience-measure measure-2">
+						<div className="experience-measure measure-1">
 							<span>3 years</span>
 						</div>
 					</div>
