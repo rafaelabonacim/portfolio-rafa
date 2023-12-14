@@ -2,7 +2,7 @@
 ## Hi there! <a href="https://www.linkedin.com/in/rafaelamiellibonacim/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 ### I'm Rafaela Bonacim, Front-End Software Engineer dedicated to developing amazing interfaces! 
 
-- 🔭 &nbsp;I’m currently working on #luizalabs :wink:
+- 🔭 &nbsp;I’m currently working on #luizalabs #magalucloud :wink:
 - 🌱 &nbsp;I’m currently learning React, JavaScript, TypeScript
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
 
