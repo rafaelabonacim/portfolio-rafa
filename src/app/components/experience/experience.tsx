@@ -7,8 +7,8 @@ export function Experience() {
     <div className="experience">
       <SectionTitle text="About Me" />
       <p>
-        I&apos;m a passionate front-end developer with a unique journey, with 5
-        years of experience in IT and 3 years in Front-End, I thrive when
+        I&apos;m a passionate front-end developer with a unique journey, more
+        than 5 years of experience in IT and 3 years in Front-End, I thrive when
         I&apos;m tackling complex coding challenges.
       </p>
 
