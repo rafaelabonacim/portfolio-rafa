@@ -1,22 +1,27 @@
-.experience {
+.contact {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	grid-area: experience;
+	width: 100%;
 	gap: 24px;
 	max-width: 500px;
+	grid-area: contact;
+
+
+
 	p {
+		color: var(--text-secondary);
 		font-weight: 300;
 		font-size: 18px;
 		line-height: 28px;
-		color: var(--text-secondary);
-		text-align: center;
 	}
 
 	@media (min-width: 768px) {
 		align-items: flex-start;
+		display:flex ;
+
 		p {
-			font-size: 24px;
+			font-size: 20px;
 			line-height: 36px;
 			text-align: start;
 		}

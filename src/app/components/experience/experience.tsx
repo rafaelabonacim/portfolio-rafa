@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { SectionTitle } from "../section-title/section-title";
 
 import "./experience.scss";
@@ -8,7 +7,7 @@ export function Experience() {
       <SectionTitle text="About Me" />
       <p>
         I&apos;m a passionate front-end developer with a unique journey, more
-        than 5 years of experience in IT and 3 years in Front-End, I thrive when
+        than 7 years of experience in IT and 3 years in Front-End, I thrive when
         I&apos;m tackling complex coding challenges.
       </p>
 
@@ -17,7 +16,7 @@ export function Experience() {
         programming certificates. I began my career as a Product Owner, where I
         coordinated projects, worked closely with development teams, and learned
         the importance of delivering results. My journey led me to discover my
-        true love: programming. Two years ago, I made the transition to the
+        true love: programming. Three years ago, I made the transition to the
         front-end development field and never looked back.
       </p>
 
@@ -47,51 +46,6 @@ export function Experience() {
         Front-End Developer, so if you are a fellow recruiter or IT colleague, I
         invite you to connect with me.
       </p>
-
-      <div className="experience-time">
-        <div className="experience-language">
-          <Image
-            src="/js.png"
-            alt="Javascript Logo"
-            width={40}
-            height={40}
-            priority
-          />
-          <div className="experience-unit">
-            <div className="experience-measure measure-1">
-              <span>3 years</span>
-            </div>
-          </div>
-        </div>
-        <div className="experience-language">
-          <Image
-            src="/react.png"
-            alt="React Logo"
-            width={40}
-            height={40}
-            priority
-          />
-          <div className="experience-unit">
-            <div className="experience-measure measure-1">
-              <span>3 years</span>
-            </div>
-          </div>
-        </div>
-        <div className="experience-language">
-          <Image
-            src="/ts.png"
-            alt="Typescript Logo"
-            width={40}
-            height={40}
-            priority
-          />
-          <div className="experience-unit">
-            <div className="experience-measure measure-1">
-              <span>3 years</span>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   );
 }

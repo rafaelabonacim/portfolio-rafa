@@ -13,10 +13,7 @@ export function Info() {
       <SectionTitle text="Education" />
       <div className="educational-info">
         <span>🎓 </span>
-        <span>
-          Production Engineering Bachelors Degree - Universidade Federal de
-          Itajubá
-        </span>
+        <span>Bachelor’s Degree in Product Engineering (2010-2015)</span>
       </div>
     </div>
   );

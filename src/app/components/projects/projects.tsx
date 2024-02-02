@@ -10,7 +10,7 @@ export function Projects() {
       <div className="projects-1">
         <p>
           <strong>
-            Frontend Web Developer at Magalu Cloud (August 2021 - Today)
+            Frontend Web Developer at Magalu Cloud (August 2021 - current)
           </strong>
         </p>
         <p>
@@ -18,12 +18,12 @@ export function Projects() {
           control platform using React and TypeScript. These interfaces include
           screens for displaying user information such as consent, basic user
           data, and address. The platform is now utilized by more than 800
-          clients, with one company indirectly saving +100k reais within a
-          single month of adopting this plataform.
+          clients, with one company indirectly saving +25.000 U$D within a
+          single month of adopting this platform.
         </p>
         <p>
-          - Integrated the frontend with the backend by creating JavaScript
-          services to connect with the backend API.
+          - Integrated the front-end with the back-end by creating JavaScript
+          services to connect with the back-end API.
         </p>
         <p>
           - Implemented application testing using Jest for unit tests and
@@ -32,57 +32,41 @@ export function Projects() {
       </div>
       <div className="projects-2">
         <p>
-          <strong>Product Owner at Luizalabs (March 2019 - August 2021)</strong>
+          <strong>
+            Senior Data Analyst / Promoted to Product Owner (2018 - 2021)
+          </strong>
         </p>
         <p>
           - Managed backlog, delivery roadmap, and created new functionalities
-          to improve the delivery driver experience, such as digitizing and
-          implementing a new payment flow for +3000 drivers. This involved
-          effective communication across DEV Team, UX, Data, Agile, users, and
+          to improve the delivery courier experience, such as digitizing and
+          implementing a new payment flow for +3000 couriers. Involving
+          effective communication across Dev Team, UX, Data, Agile, users and
           stakeholders.
         </p>
         <p>
           - Coordinated the integration of shipment tracking APIs with logistics
-          and developers, resulting in a remarkable 500% increase in the number
-          of integrated carriers within a month.
+          and development sectors, resulting in a remarkable 500% increase in
+          the number of integrated couriers within a month.
         </p>
         <p>
-          - Collaborated with developers to implement sprints for improved
-          visibility and results.
+          - Analysed data for a delivery app, using SQL and Google Analytics.
         </p>
       </div>
       <div className="projects-3">
         <p>
-          <strong>
-            Senior Digital Analyst at Luizalabs (September 2018 - February 2019)
-          </strong>
+          <strong>Senior Data Analyst at B2W - Americanas (2017 - 2018)</strong>
         </p>
         <p>
-          - Created the checkout indicator (dropout rate) and established
-          calculation methods, monitoring, and goal setting.
+          - Worked with data-driven programming, using SQL and data analysis
+          systems, such as Adobe Analytics.
         </p>
         <p>
-          - Specialized in data visualization and presented insights to the
-          board of directors.
+          - Responsible for identifying problems through numerical analysis and
+          analyzing the performance of the conversion funnel to prioritize
+          projects for an improved user experience and increased conversion.
         </p>
-        <p>
-          - Collaborated across different teams, including checkout,
-          marketplace, and logistics.
-        </p>
-        <p>
-          - Part of the Checkout squad with expertise in conversion optimization
-          and digital customer experience.
-        </p>
-        <p>- Managed project progress using Monday and Trello.</p>
       </div>
-     
-      <div className="buttons">
-        <SocialBtns />
-        <a className="btn-primary" href="mailto:rafaelabonacim@gmail.com">
-          contact me
-          <EmailIcon />
-        </a>
-      </div>
+
     </div>
   );
 }
