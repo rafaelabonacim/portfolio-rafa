@@ -9,7 +9,7 @@
 
 ### ✨&nbsp; About Me
 
-I’m Front-End Software engineer passionate to developing amazing interfaces, with 5+ years of experience in IT and 2+ years as Front-End, who is constantly seeking for new challenges.
+I’m Front-End Software engineer passionate to developing amazing interfaces, with 7 years of experience in IT and 3 years as Front-End, who is constantly seeking for new challenges.
 
 ### 👩🏻‍💻 &nbsp; Languages and Tools
 
